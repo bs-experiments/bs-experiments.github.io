@@ -14,7 +14,7 @@ function setup() {
 function draw() {
     background(2);
 
-    camera(0, 0, 1000, 0, 0, frameCount * 0.2);
+    camera(0, 0, 900);
 
     cursor(HAND);
 
